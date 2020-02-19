@@ -6,7 +6,7 @@ Phanice Owino
 ## Description
 A project that one is able to add and post pitches on the webpage according to the categoriesries
 
-## Setup/installation Requirements
+<!-- ## Setup/installation Requirements
  prerequisites Python 3.6 and an internet connection
 
 
@@ -32,4 +32,4 @@ Contact me through email:atienophanice1@gmail.com
 
 
 
-
+ -->
